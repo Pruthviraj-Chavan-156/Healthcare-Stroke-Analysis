@@ -1,1 +1,2 @@
 # HealthCare-Project
+This project analyzes a healthcare dataset to identify insights into stroke occurrences, risk factors, and trends. The primary objective is to use data cleaning, exploratory data analysis, and advanced visualizations to highlight key metrics and provide actionable insights. Additionally, we integrate the dataset with SQL and create a dynamic, interactive dashboard in Power BI.
