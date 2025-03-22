@@ -6,7 +6,7 @@ This project analyzes a healthcare dataset to identify insights into stroke occu
 ## 📂 Dataset
 The dataset used for this project is publicly available on Kaggle: **Stroke Prediction Dataset**.
 
-- **File Name:** `healthcare-dataset-stroke-data.csv`
+- **File Name:** `strok_data1.csv`
 - **Description:** The dataset includes patient information such as **age, gender, BMI, smoking status, heart disease, hypertension**, and **stroke status (1 = stroke, 0 = no stroke)**.
 
 ## 🎯 Objectives
