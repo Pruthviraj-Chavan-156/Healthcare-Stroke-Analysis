@@ -1,4 +1,4 @@
-# 🏥 HealthCare-Project
+# 🏥 Healthcare Stroke Analysis
 
 ## 📌 Overview
 This project analyzes a healthcare dataset to identify insights into stroke occurrences, risk factors, and trends. The primary objective is to use **data cleaning, exploratory data analysis (EDA), SQL integration, and Power BI dashboards** to highlight key metrics and provide actionable insights.
